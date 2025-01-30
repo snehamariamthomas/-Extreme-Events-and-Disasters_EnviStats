@@ -8,7 +8,10 @@ This report analyzes government data to uncover key trends in India’s disaster
 - The rise of new climate-driven threats (heatwaves, lightning, and cold waves)
 - Disaster relief funding trends and gaps
 
-The findings highlight the urgent need for better resource allocation, long-term resilience planning, and climate-adaptive disaster policies.
+### __Key Findings__
+- _Surging Natural Disasters:_ The number of disasters in India has risen from 4 in the 1990s to 63 in 2020-2023, with new hotspots emerging in Jharkhand, Madhya Pradesh, and Telangana.
+- _Changing Disaster Patterns:_ Cyclonic storms increased from 2 (2010-2019) to 17 (2020-2024), heatwaves became a major concern, and lightning strikes surged from 2 to 25 in the same period.
+- _Funding Gaps in Disaster Management:_ Despite a rise in government spending, funding allocation remains inconsistent—newly affected states like Jharkhand receive less despite rising risks.
 
 ### __Data Source__
 Ministry of Statistics and Programme Implementation (MOSPI) (2024) - EnviStats India 2024: Environment Statistics
